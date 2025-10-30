@@ -1,0 +1,6 @@
+# Java / IDE ignore
+*.class
+/out/
+.idea/
+.vscode/
+*.jar
